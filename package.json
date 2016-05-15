@@ -1,0 +1,17 @@
+{
+  "name": "node-game-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"'Tests' are a waste of human effort.\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Izzy",
+  "license": "AGPLv3.0",
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "engine.io": "~1.6.9",
+    "engine.io-client": "~1.6.9"
+  }
+}
